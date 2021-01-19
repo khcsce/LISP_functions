@@ -1,4 +1,6 @@
-Khoa Quach
+;Homework 1
+;NAME: Khoa Quach
+;ID: 105123806
 
 Question 1:
 [1]> (load "hw1.lsp")
